@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Banner / Título animado -->
@@ -17,8 +16,17 @@ Actualmente en **Claro CR**, impulsando soluciones tecnológicas que conectan pe
 
 📍 San José, Costa Rica &nbsp;·&nbsp; 🏢 Claro CR &nbsp;·&nbsp; ✉️ jhsv18483@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jonathan--salgado--vega-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-salgado-vega-77a00368)
-[![GitHub](https://img.shields.io/badge/GitHub-tan83-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tan83)
+<a href="https://linkedin.com/in/jonathan-salgado-vega-77a00368">
+  <img src="https://img.shields.io/badge/LinkedIn-jonathan--salgado--vega-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="border-radius:12px; margin:4px;" height="28" />
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/jonathan-salgado-vega-77a00368">
+  <img src="https://img.shields.io/badge/-jonathan--salgado--vega-00D4FF?style=flat&logoColor=0A0F1E&labelColor=00D4FF" alt="Jonathan Salgado Vega" height="28" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/tan83">
+  <img src="https://img.shields.io/badge/GitHub-tan83-181717?style=flat&logo=github&logoColor=white&labelColor=181717" alt="GitHub" height="28" />
+</a>
 
 </div>
 
@@ -28,13 +36,13 @@ Actualmente en **Claro CR**, impulsando soluciones tecnológicas que conectan pe
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" height="26" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="26" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" height="26" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="26" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="26" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="26" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="26" />
 
 </div>
 
