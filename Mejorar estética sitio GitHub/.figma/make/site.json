@@ -1,0 +1,10 @@
+{
+  "description": "Transform your GitHub site with visually appealing designs tailored for digital transformation, enhancing aesthetics and user engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
