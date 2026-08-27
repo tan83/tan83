@@ -11,7 +11,8 @@
 
 ### 👋 Hola, soy Jonathan
 
-Desarrollador de software comprometido con la **transformación digital** de organizaciones.  
+Líder estratégico de TI y Subgerente de Transformación Digital con más de 7 años de trayectoria dirigiendo arquitecturas empresariales, infraestructura tecnológica (Azure/VMware) y proyectos de escala corporativa. Especializado en impulsar la ventaja competitiva mediante el gobierno e integración de Inteligencia Artificial (soluciones AI-Driven, agentes cognitivos e hiperautomatización), alineando la adopción de tecnologías disruptivas con los objetivos del negocio. Experiencia comprobada en la dirección de equipos multidisciplinarios, optimización de CapEx/OpEx, continuidad operativa (BCP/DRP) y gestión de stakeholders
+
 Actualmente en **Claro CR**, impulsando soluciones tecnológicas que conectan personas y aceleran el cambio.
 
 📍 San José, Costa Rica &nbsp;·&nbsp; 🏢 Claro CR &nbsp;·&nbsp; ✉️ jhsv18483@gmail.com
