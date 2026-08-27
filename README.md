@@ -82,11 +82,19 @@ Actualmente en **Claro CR**, impulsando soluciones tecnológicas que conectan pe
 
 ---
 
-## 🏆 Trofeos
+## 🏆 Logros
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tan83&theme=darkhub&no-bg=true&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://img.shields.io/badge/🦈%20First%20Commit-Primer%20paso%20dado-00D4FF?style=flat&labelColor=0D1117" height="28" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/📦%20Repositorio%20Público-Código%20abierto-239120?style=flat&labelColor=0D1117" height="28" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🔗%20LinkedIn%20Conectado-Red%20profesional-0077B5?style=flat&labelColor=0D1117" height="28" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🏢%20Claro%20CR-Empresa%20Activa-CC2927?style=flat&labelColor=0D1117" height="28" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🇨🇷%20Costa%20Rica-San%20José-22C55E?style=flat&labelColor=0D1117" height="28" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/⚡%20Transformación%20Digital-En%20progreso-00D4FF?style=flat&labelColor=0D1117" height="28" />
 
 </div>
 
